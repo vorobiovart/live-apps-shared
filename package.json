@@ -1,0 +1,21 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "This is a repo to store external dependencies for live-apps (like React, axios, styled-components).",
+  "scripts": {
+    "start": "serve public -l 3008"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleonort/live-apps-shared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleonort/live-apps-shared/issues"
+  },
+  "homepage": "https://github.com/oleonort/live-apps-shared#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
